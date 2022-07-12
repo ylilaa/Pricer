@@ -1,0 +1,13 @@
+{
+    "app_name": "Pricer",
+    "description": "",
+    "author": "Lila YAHYA",
+    "email": "",
+    "excel_file": "Pricer.xlsm",
+    "vba_folder": "vba-files",
+    "ribbon_file": "customUI14",
+    "ribbon_folder": "ribbons",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
